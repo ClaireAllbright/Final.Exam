@@ -27,9 +27,6 @@ h2 {
   max-width: 700px;
   overflow: auto;
 }
-@media(min-width: 500px) {
-
-}
 @media(min-width: 650px) {
 .right-column {
   width: 34%;
